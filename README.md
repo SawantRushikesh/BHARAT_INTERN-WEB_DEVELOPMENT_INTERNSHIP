@@ -1,4 +1,4 @@
-# BHARAT_INTERN-WEB_DEVELOPMENT_INTERNSHIP
+# BHARAT_INTERN WEB_DEVELOPMENT_INTERNSHIP
 Projects on Web Development Internship
 
 Task 1 - Portfolio Website : A portfolio website made up of HTML,CSS telling about you and your accomplishments.
